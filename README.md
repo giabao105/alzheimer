@@ -12,3 +12,6 @@ Dự án sử dụng mạng nơ-ron tích chập 3 chiều (3D-CNN) được xâ
 
 ## Kết quả
 Sau 10 epochs huấn luyện, mô hình đạt độ chính xác **87.50%** trên tập validation, vượt trội so với các mô hình baseline (SVM, Decision Tree).
+
+## Giấy phép
+Dự án này được phân phối dưới giấy phép [MIT License](LICENSE).
